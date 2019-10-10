@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sensor Application </string>
+    <string name="home_page">HOME PAGE</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Open</string>
+
+    <string name="accelerometer_activity">Accelerometer Sensor</string>
+    <string name="gyroscope_activity">Gyroscope Sensor</string>
+    <string name="proximity_activity">Proximity Sensor</string>
+    <string name="shake_detection">Shake Detector</string>
+    <string name="map_activity">My Map</string>
+    <string name="welcome_to_sensor_detection_app">This is an application for sensor activities.</string>
+    <string name="accelerometer_data">Accelerometer Activity</string>
+    <string name="gyroscope_data">Gyroscope Activity</string>
+    <string name="proximity_data">Proximity Activity</string>
+    <string name="shake_data">Shake Detection</string>
+    <string name="map_data">Map </string>
+    <string name="gyro_data_str">Retrieved Data</string>
+    <string name="x">X :</string>
+    <string name="y">Y :</string>
+    <string name="z">Z :</string>
+    <string name="rotation_indicator">Rotation:</string>
+    <string name="distance">Distance :</string>
+    <string name="enter_source">Source</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50029163067",
+    "firebase_url": "https://naisha201614116.firebaseio.com",
+    "project_id": "naisha201614116",
+    "storage_bucket": "naisha201614116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50029163067:android:5a84a265ce300bd60fe21e",
+        "android_client_info": {
+          "package_name": "com.example.navbarapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50029163067-4dba43qfr41nhr5vvnjjrgib73a2bakf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.navbarapplication",
+            "certificate_hash": "62b94967d66d78377a36ece7b8a6e7db12d328b1"
+          }
+        },
+        {
+          "client_id": "50029163067-r1i4ut1qq040atjdc02pkus6st288388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6DavJlNREQLE5mMxD3FtLaXkIF3TcETk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50029163067-r1i4ut1qq040atjdc02pkus6st288388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
